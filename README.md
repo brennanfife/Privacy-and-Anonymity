@@ -1,2 +1,2 @@
 # Privacy-and-Anonymity-within-Crypto
-Meant to serve as an ongoing repo for all things related to crypto topics on privacy and anonymity
+Ongoing resource bank: meant to serve as an intro into all things related to privacy and/or anonymity within crypto
