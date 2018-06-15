@@ -1,5 +1,5 @@
 # Privacy-&-Anonymity-Topics-within-Crypto
-Ongoing resource bank: meant to serve as an intro into all things related to privacy and/or anonymity within crypto
+Going down another rabbit hole? Enjoy this resource bank of all things related to privacy and crypto
 
 # Everything Monero
 
