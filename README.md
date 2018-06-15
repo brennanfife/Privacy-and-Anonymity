@@ -3,7 +3,7 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
 
 # Everything Monero
 
-# Everything MimbleWimbke
+# Everything MimbleWimble
 
 # Everything ZCash
 
