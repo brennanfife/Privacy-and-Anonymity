@@ -18,22 +18,22 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
 
 
 
-# Monero
+### Monero
 
-# ZCash
+### ZCash
 
-# MimbleWimble
+### MimbleWimble
 
-# Videos
+### Videos
 
-# Podcast Episodes
+### Podcast Episodes
 
-# Whitepapers
+### Whitepapers
 
-# Other Resources
+### Other Resources
 
-# De-anonymization
+### De-anonymization
 
-# Other Resources
+### Other Resources
 
 # Additional Information
