@@ -9,6 +9,7 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
     -   [MimbleWimble](#MimbleWimble)
 -   [Videos](#videos)
     -   [zero knowledge proofs](#zero-knowledge-proofs)
+-   [Medium Articles](#Medium-Articles)
 -   [Podcast-Episodes](#podcast-episodes)
 -   [Whitepapers](#whitepapers)
 -   [De-anonymization](#de-anonymization)
