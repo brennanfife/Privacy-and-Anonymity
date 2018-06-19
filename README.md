@@ -1,4 +1,4 @@
-# Privacy-&-Anonymity-Topics-within-Crypto
+# Crypto:Anonymity-&-Privacy
 Going down another rabbit hole? Enjoy this resource bank of all things related to privacy and crypto
 
 ## Table of Contents
