@@ -29,8 +29,6 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
 
 ### Whitepapers
 
-### Other Resources
-
 ### De-anonymization
 
 ### Additional Resources
