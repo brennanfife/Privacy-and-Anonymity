@@ -1,7 +1,7 @@
 # Crypto:Anonymity-&-Privacy
 Going down another rabbit hole? Enjoy this resource bank of all things related to privacy and crypto
 
-## Table of Contents
+## _Table of Contents_
 -   [Crypto: Privacy & Anonymity](#Crypto:-Privacy-&-Anonymity)
     -   [Projects](#Projects)
         -   [Monero](#Monero)
