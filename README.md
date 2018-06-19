@@ -12,8 +12,7 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
     -   [Podcast-Episodes](#podcast-episodes)
     -   [Whitepapers](#whitepapers)
     -   [De-anonymization](#de-anonymization)
-    -   [Other Resources](#other-resources)
--   [Additional Information](#additional-information)
+    -   [Additional Resources](#additional-resources)
     -   [TOR vs VPN]()
 
 
@@ -34,6 +33,4 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
 
 ### De-anonymization
 
-### Other Resources
-
-# Additional Information
+### Additional Resources
