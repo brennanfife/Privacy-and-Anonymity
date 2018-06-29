@@ -1,4 +1,4 @@
-# Crypto:Anonymity-&-Privacy
+# Crypto: Anonymity-&-Privacy
 Going down another rabbit hole? Enjoy this resource bank of all things related to privacy and crypto
 
 ## _Table of Contents_
@@ -17,12 +17,13 @@ Going down another rabbit hole? Enjoy this resource bank of all things related t
 -   [TOR vs VPN]()
 
 
-
+## Crypto Projects 
 ### Monero
 
 ### ZCash
 
 ### MimbleWimble
+### Grin
 
 ### Videos
 
